@@ -17,7 +17,7 @@ const ages=[33,12,20,16,5,54,21,44,61,13,25,43,25,64,32]
 
 //reduce
 const sumAges=ages.reduce(function(total,age){
-    return total + age;//the boy has
+    return total + age;
 })
 
 console.log(sumAges)
