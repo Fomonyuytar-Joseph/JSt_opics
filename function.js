@@ -1,3 +1,14 @@
+console.log("hi there ",name());
+
+function name(){
+    return 'joseph'
+}
+
+
+
+
+
+
 
 
 
@@ -25,7 +36,7 @@
 // // → 60
 // }
 // y is not visible here
-console.log(x + z);
+//console.log(x + z);
 // console.log(y);
 // → 40
 
